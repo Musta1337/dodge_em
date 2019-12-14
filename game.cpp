@@ -26,7 +26,7 @@ Submitted.
 
 //============================================================================
 // Name        : game.cpp
-// Author      : Hassan Mustafa & Ghulam Mustafa Zafar
+// Author      : Hassan Mustafa & Mustafa Zafar
 // Version     : 
 // Copyright   : (c) Reserved
 // Description : Basic 2D game of Dodge 'Em...
